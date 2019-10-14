@@ -505,6 +505,6 @@ plt.tight_layout()
 plt.show()
 
 print("\n")
-print(f"Final strategy net value: {net_profit_pct}")
+print(f"Final strategy net value: {net_profit_pct*100}%")
 print("\n")
 input("Press ENTER to exit: ")
