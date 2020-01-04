@@ -1,7 +1,7 @@
 # UBS-Quant-Hackathon-2019
 Group attempt at the FX Value Strategy challenge.
 
-Group members - Joel Thomas, Victoria Zhang, Liam Horrocks
+Group members - Joel Thomas, Victoria Zhang, Liam Horrocks.
 
 Case description:
 1) Objective: To explore a trading strategy which take long/short position in G10 currencies (against USD) in order to extract value premium. In another words: to buy under-valued currency and to sell over-valued currency expecting price will revert to fair value.
