@@ -1,5 +1,6 @@
 # UBS-Quant-Hackathon-2019
-Group attempt at FX Value Strategy challenge
+Group attempt at the FX Value Strategy challenge.
+
 Group members - Joel Thomas, Victoria Zhang, Liam Horrocks
 
 Case description:
